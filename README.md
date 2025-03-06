@@ -1,6 +1,6 @@
 Overview
 
-This project explores the use of Kernel Ridge Regression (KRR) as a predictive modeling technique for multi-dimensional datasets. The primary objective is to evaluate different kernel functions—Linear, Polynomial, and Gaussian (RBF)—and assess their effectiveness in reducing prediction errors. By comparing their performance using Mean Squared Error (MSE), we aim to determine the most suitable kernel for this particular dataset.
+This exercise, which was a project from one of my modules, explores the use of Kernel Ridge Regression (KRR) as a predictive modeling technique for multi-dimensional datasets. The primary objective is to evaluate different kernel functions—Linear, Polynomial, and Gaussian (RBF)—and assess their effectiveness in reducing prediction errors. By comparing their performance using Mean Squared Error (MSE), we aim to determine the most suitable kernel for this particular dataset.
 
 Project Objectives
 The key objectives of this project are:
